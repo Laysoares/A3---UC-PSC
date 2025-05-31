@@ -1,5 +1,6 @@
 # A3-PSC
-Realização do trabalho A3
+Repositório criado para a postagem do trabalho A3.
+
 # Entidade: Cliente de Loja de Roupa
 
 ## Nome
